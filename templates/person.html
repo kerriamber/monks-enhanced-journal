@@ -48,6 +48,10 @@
                             <label>{{localize 'MonksEnhancedJournal.Gender'}}</label>
                             <input type="text" name="flags.monks-enhanced-journal.gender" value="{{data.flags.monks-enhanced-journal.gender}}" />
                         </li>
+                        <li {{#unless fields.pronouns.value}} style="display: none;" {{/unless}}>
+                            <label>{{localize 'MonksEnhancedJournal.Pronouns}}</label>
+                            <input type="text" name="flags.monks-enhanced-journal.pronouns" value="{{data.flags.monks-enhanced-journal.pronouns}}" />
+                        </li>
                         <li {{#unless fields.age.value}} style="display:none;" {{/unless}}>
                             <label>{{localize 'MonksEnhancedJournal.Age'}}</label>
                             <input type="text" name="flags.monks-enhanced-journal.age" value="{{data.flags.monks-enhanced-journal.age}}" />
