@@ -1,8 +1,8 @@
 {
-  "name": "kerris-enhanced-journal",
+  "name": "monks-enhanced-journal",
   "title": "Monk's Enhanced Journal (kerri's ver)",
   "description": "just a version for until Monk publishes next release w/ pronouns",
-  "version": "1.1.32",
+  "version": "1.1.33",
   "author": "IronMonk",
   "socket": true,
   "languages": [
