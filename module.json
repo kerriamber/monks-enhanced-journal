@@ -43,7 +43,7 @@
   "styles": [ "css/monks-enhanced-journal.css", "css/editor.css" ],
   "packs": [],
   "url": "https://github.com/ironmonk88/monks-enhanced-journal",
-  "download": "https://github.com/kerriamber/monks-enhanced-journal/archive/pronouns.zip",
+  "download": "https://github.com/kerriamber/monks-enhanced-journal/archive/pronouns-redux.zip",
   "manifest": "https://github.com/kerriamber/monks-enhanced-journal/releases/latest/download/module.json",
   "bugs": "https://github.com/ironmonk88/monks-enhanced-journal/issues",
   "allowBugReporter": true,
